@@ -7,3 +7,7 @@ Disallow: /global.html
 Disallow: /maysi2translations.html
 Disallow: /partners.html
 Disallow: /publications/index.html
+
+User-agent: Googlebot
+User-agent: AdsBot-Google
+Disallow: /
