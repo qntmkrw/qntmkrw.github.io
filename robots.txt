@@ -1,0 +1,9 @@
+User-Agent: *
+Disallow: /
+Disallow: /index.html
+Disallow: /about.html
+Disallow: /2colnysaptemplate.html
+Disallow: /global.html
+Disallow: /maysi2translations.html
+Disallow: /partners.html
+Disallow: /publications/index.html
