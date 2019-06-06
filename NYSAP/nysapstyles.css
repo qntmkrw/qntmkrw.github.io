@@ -7,6 +7,7 @@
 }
 
 body {
+    width: 97.5%;
     font-family: 'Arimo', sans-serif;
     font-size: 97.5%;
     padding: 10px;
@@ -211,6 +212,8 @@ figcaption {
     padding-right: 12.5px;
 }
 
+
+
 /* Fake image */
 .fakeimg {
     background-color: #aaa;
@@ -223,6 +226,13 @@ figcaption {
 .cardblock {
     background-color: #ffffff;
     padding: 20px;
+    margin-top: 12.5px;
+    border: .75px solid #d9d9d9;
+}
+
+.cardblockbreadcrumb {
+    background-color: #ffffff;
+    padding-top: 5px;
     margin-top: 12.5px;
     border: .75px solid #d9d9d9;
 }
@@ -455,10 +465,10 @@ h5 {
 }
 
 .middleright p {
-    margin-right: 10%;
+    margin-right: 7.5%;
 }
 
-.middleright li {
+.50% {
     margin-right: 50%;
 }
 
@@ -501,6 +511,24 @@ h5 {
 
 .list-group-item a:hover {
     font-weight: bold;
+}
+.card-header {
+    padding: 5px;
+}
+
+.badge-secondary {
+    background: #d9d9d9;
+    color: #0B08AB;
+}
+
+
+
+.btn-block {
+    text-align: center;
+}
+
+.list-group-item-action {
+    width: 100%;
 }
 
 /* tagline slider */
@@ -642,34 +670,23 @@ h5 {
 
 
 @media screen and (max-width: 800px) {
-    .middleright p{
-        width: 100%;
-        padding-right: 0px;
-        margin-right: 0px;
-    }
+
 }
 
 @media screen and (max-width: 800px) {
     .middleright p,
-    .middleright li {
+    .middleright li,
+    .list-group-item-action {
         width: 100%;
     }
 }
 
-.card-header {
-    padding: 5px;
-}
-.list-group-item {
-    padding: 
-}
-
-.badge-secondary {
-    background: #d9d9d9;
-    color: #0B08AB;
-}
 
 
 
-.btn-block {
-    text-align: center;
+
+
+
+.breadcrumb {
+    background: transparent;
 }
