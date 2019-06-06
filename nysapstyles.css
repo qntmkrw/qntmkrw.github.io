@@ -468,8 +468,12 @@ h5 {
     margin-right: 7.5%;
 }
 
-.50% {
+.50marginr {
     margin-right: 50%;
+}
+
+.half {
+    width: 50%;
 }
 
 .bio h4 {
@@ -676,7 +680,8 @@ h5 {
 @media screen and (max-width: 800px) {
     .middleright p,
     .middleright li,
-    .list-group-item-action {
+    .list-group-item-action,
+    .half {
         width: 100%;
     }
 }
