@@ -1,0 +1,43 @@
+<!DOCTYPE HTML PUBLIC '-//W3C//DTD HTML 5.0 Transitional//EN'><html xmlns='http://www.w3.org/1999/xhtml' prefix='fb: http://www.facebook.com/2008/fbml' >
+<head>
+<meta charset=UTF-8' /><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1' /><meta name='viewport' content='width=device-width' /><title>HTTP 404 Error - Page Not Found - OPT</title><meta name='description' content='The page you were looking for is not found'><link rel='stylesheet' href='/static/css/nero_o/layout.css'><link rel='stylesheet' href='/Static/css/bxslider.css'><link href='/static/css/appendAround.css' rel='stylesheet'><link href='/static/css/default_o/layout.css' rel='stylesheet' /><link href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,300italic,700&subset=latin,cyrillic-ext,latin-ext,cyrillic' rel='stylesheet' type='text/css' /><link rel='stylesheet' href='https://netdna.bootstrapcdn.com/font-awesome/4.0.1/css/font-awesome.min.css' />
+<link href='/Static/css/default_o/layoutBlocks.css' rel='stylesheet' /><link rel='icon' type='image/png' href='/static/img/favicon.ico' /><!-- for IE --><link rel='icon' type='image/x-icon' href='/static/img/favicon.ico'></head><body class='error-page'><header id='header-main'><div class='utility-r header r770'><div class='mobile-nav-wrapper'><div class='container clearfix'><div class='search-icon-r r770' data-set='search-icon'><img alt='click to open search panel' class='mobile-search-icon search-icon r770' src='/static/img/homepage/icon-search.png' /></div><div class='logo-r r770' data-set='site-logo'><a class='logo r770' href='/' title='click to go to University of Massachusetts Medical School homepage'><picture><source media='(max-width: 770px)' srcset='/globalassets/global-images-and-files/images/umms-official.svg'><img src='/globalassets/global-images-and-files/images/umms-official.png' alt='logo of the University of Massachusetts Medical School'></picture></a></div><div class='search-r mobile-search r770' data-set='search'><div id='search-container' class='search search-container r770' style='display: none;'><fieldset><form action='/link/fde4535d9bea47a38d12b030ff7bdd51.aspx' method='GET' name='q' role='search'><label for='SearchKeywords2'>Search</label><input type='text' class='search-query' name='q' id='SearchKeywords2' placeholder='Search for' title='Search words' alt='type in search words'><input type='submit' class='searchButton' id='SearchButton' value='Submit' title='Submit Search this site' alt='Submit Search this site'><div class='searchErrMsg' id='searchErrMsg'></div></form></fieldset></div></div></div></div></div><div id='utility-desktop' class='desktop' style='text-align: right;'><div class='container'><div class='search-icon-desktop desktop' data-set='search-icon'><img alt='click to open search panel' class='mobile-search-icon search-icon desktop' src='/static/img/homepage/icon-search.png'></div><div class='search-desktop desktop' data-set='search'><div id='search-container' class='search search-container desktop' style='display: none;'><form action='/link/fde4535d9bea47a38d12b030ff7bdd51.aspx' method='GET' name='q' role='search'><label for='SearchKeywords2'>Search</label><input type='text' class='search-query' name='q' id='SearchKeywords2' placeholder='Search for' title='Search words' alt='type in search words'><input type='submit' class='searchButton' id='SearchButton' value='Submit' title='Submit Search this site' alt='Submit Search this site'><div class='searchErrMsg' id='searchErrMsg'></div></form></div></div></div></div><section id='logo-banner' role='banner' aria-label='Site Banner'><div id='logo' class='logo-desktop desktop' data-set='site-logo'><a class='logo desktop' href='/' title='click to go to UMMS homepage'><picture><source media='(max-width: 770px)' srcset='/globalassets/global-images-and-files/images/umms-official.svg'><img src='/globalassets/global-images-and-files/images/umms-official.png' alt='logo of the University of Massachusetts Medical School'></picture></a></div></section></header><main id='main-content' class='main-cols clearfix' role='main'><section id='col-2' class='main-content col'><div class='col-content'>
+<!--begin content -->
+<div class="errorContent" role="main">
+            <h1>HTTP 404 Error - Page Not Found</h1>
+
+
+
+            <div class="notfoundbox">
+                The page or file you were looking for:<br />
+                http://www.umassmed.edu/uploadedfiles/cmhsr/nysap/knowledge-brief-does-mental-health.pdf
+
+                Referred from: <br>You came from:<br>
+				<br />
+                Referred from: http://nysap.us/Products.html<br />
+            </div>
+            <br />
+            <p>The page you are looking for might have been removed, had its name changed, or is temporarily unavailable. Please try the following:</p>
+<ul>
+<li>If you typed the page address in the Address bar, make sure that it is spelled correctly.</li>
+<li>Open <a href="/">www.umassmed.edu</a> and look for links to the information you want or use the links provided below.</li>
+<li><a href="http://www.umassmed.edu/Search-Results/?proxycustom=&lt;ADVANCED/&gt;">Search the UMMS site</a></li>
+<li>If you have any questions, please contact our <a href="mailto:umwhelpdesk@umassmed.edu">helpdesk</a></li>
+</ul>
+<p>&nbsp;</p>
+	</div>
+<!-- end content -->
+</div></section></main><footer id='footer' role='contentinfo'><section id='footer-bottom' aria-label='Site Contact Info in Footer'><div class='general-info'><p><strong>General Information: 508-856-8989&nbsp;</strong></p></div><ul class="footer-util-list clearfix">
+<li><a href="/" title="UMMS Home">UMMS Home</a></li>
+</ul>
+<div class='footer-content'><p class='official'><span class='official'>This is an<a href='/about/official.aspx' target='_blank'> official</a> Page of the University of Massachusetts Medical School</span></p><p class='address'><span>Office of Communications • 55 Lake Avenue North, Worcester, Massachusetts 01655</span></p><p class='questions'><span><strong>Questions or Comments? Email:&nbsp;<a href='mailto:UMMScommunications@umassmed.edu'>UMMScommunications@umassmed.edu</a><span class='footer-phone'>Phone: General information: 508-856-8989</span></strong></span></p></div></section></footer>
+<script src="https://code.jquery.com/jquery-2.2.4.min.js"></script><script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"></script><script src="/static/js/default-o/appendAround.js"></script><script type='text/javascript' src="https://oss.maxcdn.com/libs/modernizr/2.6.2/modernizr.min.js"></script><script src='/static/js/default-o/main.js' />
+<script>function openNav(idname) {document.getElementById(idname).className = 'show';	}
+function closeNav(idname) {document.getElementById(idname).className = 'hide';}
+$('#section-top, #main-content, .bottom-callouts, #footer').click(function (e) {
+});
+</script></body></html>
+
+
+
+
